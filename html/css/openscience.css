@@ -21,7 +21,7 @@
 
 @page :first {
   size: 159mm 229mm;
-  background: url("https://github.com/isler555/Open-Science-Guides-Collection/blob/main/html/images/tor.png");
+  background: url(https://github.com/isler555/Open-Science-Guides-Collection/html/images/tor.png);
   background-size: 159mm 229mm;
   display: flex;
   align-items: center;
@@ -118,7 +118,7 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: url("https://github.com/isler555/Open-Science-Guides-Collection/blob/main/html/images/tor.png");
+  background-image: url("/images/tor.png");
   background-repeat: no-repeat;
   background-size: cover;
   top: -20mm;
